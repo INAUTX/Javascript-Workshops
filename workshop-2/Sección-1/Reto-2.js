@@ -47,7 +47,7 @@ let souvenirs = [
     {name: "mango", cost: 1333, stock: 1 },
 ]
 let product = productName()
-console.log(product, "FLSDJKHSDHSD")
+console.log(product)
 let cost = productCost()
 let stock = productStock()
 newSouveneir = allSouvenirs(product, cost, stock)
