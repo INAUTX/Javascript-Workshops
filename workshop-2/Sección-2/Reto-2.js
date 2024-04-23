@@ -37,4 +37,4 @@ while (true){
         break
     }
 }
-alert("saliste")
+
